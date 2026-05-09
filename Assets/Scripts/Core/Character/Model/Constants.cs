@@ -1,0 +1,5 @@
+namespace Core.Character.Model
+{
+    
+
+}
